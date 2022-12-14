@@ -16,10 +16,6 @@
 </div>
   
 <hr/>
-
-![snake gif](https://github.com/AlexandreMaycon/AlexandreMaycon/blob/output/github-contribution-grid-snake.svg)
-  
-<hr/>
   
 <div>
   <h2> Tecnologias que estou estudando 🚀</h2>
